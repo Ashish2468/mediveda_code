@@ -45,7 +45,6 @@ html,body{
     margin-left: 25px;
 }
 
-/* LANDING CSS */
 
 .landing{
     display: flex;
@@ -86,8 +85,6 @@ html,body{
     width: 28vw;
 }
 
-
-/* ABOUT CSS */
 
 .about{
     height: 600px;
